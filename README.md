@@ -2,14 +2,14 @@
   [<img src="/src/images/agencia-xyz.gif" alt="Agência XYZ">]()
 
 📌 Tecnologias Utilizadas 
-
+````
 - HTML5
 
 - CSS3 
-
+````
 
 📌 Desenvolvido
-
+````
 - CSS Grid
 
 - CSS Flex 
@@ -23,7 +23,7 @@
 - CSS Menu
 
 - CSS Font Awesome
-
+````
 
 🎯 Dificuldades  
 
